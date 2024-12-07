@@ -1,0 +1,1 @@
+This is a test script as part of my OU course. It takes a useer input, changes the case to lowercase then strips the spaces out of the user input and creates a new list. it then checks if the new list is a palindrome by comparing the list to the reverse of itself. Finally it prints a result to the terminal.
